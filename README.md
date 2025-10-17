@@ -1,7 +1,9 @@
 # Animal-Rescue-and-Adoption
 
-
 This platform connects communities with local animal rescue centers and helps promote responsible pet adoption.
+
+## **Live demo**
+[view Animal Rescue and Adoption](https://animal-rescue-adoption-bdzu8sf.gamma.site/)
 
 ## Features
 - AI-powered virtual assistant for adoption guidance
